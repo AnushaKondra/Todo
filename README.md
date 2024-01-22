@@ -1,2 +1,3 @@
 # Todo
-Todo application to add, mark, delete tasks using html, css and javascript
+Todo application to add, mark, delete tasks using html, css and javascript using localStorage to sustain state even after refreshing
+
